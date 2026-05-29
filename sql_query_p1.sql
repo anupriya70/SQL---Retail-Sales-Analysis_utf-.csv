@@ -1,5 +1,5 @@
 -- SQL Retail Sales Analysis - P1
-drop database if exists SQL_Project_p1;
+...SQL drop database if exists SQL_Project_p1;...
 create database SQL_Project_p1;
 drop table retail_sales;
 CREATE TABLE RETAIL_SALES (
